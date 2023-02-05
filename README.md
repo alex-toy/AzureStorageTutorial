@@ -26,6 +26,12 @@ Access through Access Keys :
 <img src="/pictures/access_keys.png" title="access keys"  width="800">
 <img src="/pictures/access_keys2.png" title="access keys"  width="800">
 
+Create Table :
+<img src="/pictures/table.png" title="table"  width="800">
+
+Create Queue :
+<img src="/pictures/queue.png" title="queue"  width="800">
+
 
 ### Azure Queue Storage
 https://www.youtube.com/watch?v=JQ6KhjU5Zsg
