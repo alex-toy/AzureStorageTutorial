@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=UzTtastcBsk&t=1s
 
 <img src="/pictures/storage_account.png" title="storage"  width="800">
 
-Create Container with private access
+Create Container with private access :
 <img src="/pictures/storage_account2.png" title="storage"  width="800">
 
 Copy Url :
@@ -21,6 +21,10 @@ Change access level :
 
 With Blob Access, image is readable :
 <img src="/pictures/storage_account6.png" title="storage"  width="800">
+
+Access through Access Keys :
+<img src="/pictures/access_keys.png" title="access keys"  width="800">
+<img src="/pictures/access_keys2.png" title="access keys"  width="800">
 
 
 ### Azure Queue Storage
