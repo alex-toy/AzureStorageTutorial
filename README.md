@@ -3,7 +3,6 @@
 ## Azure Storage
 
 ### Storage explorer
-https://www.youtube.com/watch?v=UzTtastcBsk&t=1s
 
 <img src="/pictures/storage_account.png" title="storage"  width="800">
 
@@ -24,7 +23,9 @@ With Blob Access, image is readable :
 
 Access through Access Keys :
 <img src="/pictures/access_keys.png" title="access keys"  width="800">
-<img src="/pictures/access_keys2.png" title="access keys"  width="800">
+
+Azure storage Explorer
+<img src="/pictures/access_keys2.png" title="azure storage explorer"  width="800">
 
 Create Table :
 <img src="/pictures/table.png" title="table"  width="800">
@@ -37,17 +38,21 @@ Create Queue :
 https://www.youtube.com/watch?v=JQ6KhjU5Zsg
 
 
-
-
-
-
-### Finalres/app2.png" title="app"  width="800">
-
-
-
+### Azure Data Lake Storage (Gen 2)
 https://www.youtube.com/watch?v=2uSkjBEwwq0
 
+
+### Azure Cosmos DB 
 https://www.youtube.com/watch?v=R_Fi59j6BMo
+
+
+
+
+
+
+
+
+
 
 https://www.youtube.com/watch?v=2uSkjBEwwq0
 
