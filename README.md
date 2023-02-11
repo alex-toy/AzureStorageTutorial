@@ -35,7 +35,6 @@
 
 
 ### Azure Logic App
-https://www.youtube.com/watch?v=EP5cRQzTXFo  !!!To be continued...
 
 - Create **Logic App** :
 <img src="/pictures/ytb_logicapp.png" title="logic app"  width="800">
@@ -49,6 +48,19 @@ https://www.youtube.com/watch?v=EP5cRQzTXFo  !!!To be continued...
 
 - Change destination :
 <img src="/pictures/ytb_logicapp7.png" title="logic app"  width="800">
+
+
+### Azure Logic App - Step by Step Create Logic App | Http - Message Queue - Email - Response
+
+- Choose *When HTTP request is reveived* :
+<img src="/pictures/la2_queue.png" title="queue"  width="800">
+
+- Create **Logic App** :
+<img src="/pictures/la2_queue2.png" title="queue"  width="800">
+<img src="/pictures/la2_queue3.png" title="queue"  width="800">
+
+- You should receive a mail as soon as you launch a request :
+<img src="/pictures/la2_queue4.png" title="queue"  width="800">
 
 
 ### Azure Queue Storage
@@ -90,25 +102,4 @@ https://www.youtube.com/watch?v=EP5cRQzTXFo  !!!To be continued...
 
 - Observe the result :
 <img src="/pictures/logic_app_two8.png" title="logic app two"  width="800">
-
-
-### Azure Data Lake Storage (Gen 2)
-https://www.youtube.com/watch?v=2uSkjBEwwq0
-
-
-### Azure Cosmos DB 
-https://www.youtube.com/watch?v=R_Fi59j6BMo
-
-
-
-
-
-
-
-
-
-
-https://www.youtube.com/watch?v=2uSkjBEwwq0
-
-https://www.youtube.com/watch?v=BgvEOkcR0Wk
 
